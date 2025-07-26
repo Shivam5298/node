@@ -1,0 +1,23 @@
+{
+  "name": "node_files",
+  "version": "1.0.1",
+  "description": "Basic Node Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam5298/node.git"
+  },
+  "keywords": [
+    "[\"node\"",
+    "\"demo\"]"
+  ],
+  "author": "Shivam Ganguly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shivam5298/node/issues"
+  },
+  "homepage": "https://github.com/Shivam5298/node#readme"
+}
