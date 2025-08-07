@@ -6,3 +6,11 @@ var con = mysql.createConnection({
     password: "Test123",
     database: "nodedb"
 })
+
+con.connect(function (err){
+    if(err){
+        throw err
+        console.log("Error Connecting to Database")
+    }
+    
+})
